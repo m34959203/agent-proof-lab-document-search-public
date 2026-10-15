@@ -1,0 +1,6 @@
+data/
+*.tmp
+code-session
+node_modules/
+.env
+.state/
